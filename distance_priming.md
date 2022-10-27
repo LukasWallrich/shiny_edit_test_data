@@ -2,8 +2,6 @@
     Distance priming
 
 
-
-
 * 
 **Distance priming**. Participants primed with distance compared to closeness produced greater enjoyment of media depicting embarrassment (Study 1), less emotional distress from violent media (Study 2), lower estimates of the number of calories in unhealthy food (Study 3), and weaker reports of emotional attachments to family members and hometowns (Study 4).
 
