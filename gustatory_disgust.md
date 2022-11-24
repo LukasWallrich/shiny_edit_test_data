@@ -1,5 +1,5 @@
 #### * _Status::_ not replicated 
 
 * **  .** 
-* _Status:_ 
-* _Original effect size:_ Keeping One's Distance: The Influence of Spatial Distance Cues on Affect and Evaluation](https://journals.sagepub.com/doi/10.1111/j.1467-9280.2008.02084.x)’, Williams and Bargh (2008); 4 studies with n’s = 73, 42, 59 and 84. [citation=581(GS, October 2021)]​
+* _Original effect size:_ Washing away your sins: threatened morality and physical cleansing](https://www.ncbi.nlm.nih.gov/pubmed/16960010)', Zhong and Liljenquist (2006): 4 experiments with Study 1: n=60; Study 2:  n=27; Study 3: n=32; Study 4: n=45. [citation = 1407, (GS, January 2022)].  
+* _Status:_ mixed
